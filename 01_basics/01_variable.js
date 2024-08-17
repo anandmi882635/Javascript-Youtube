@@ -15,6 +15,7 @@ accountCity = 'Bengularu'
 
 /*
 not preffered to use var type variable
+because of issue in blockScope and functional scope
 use const and let variable type
 */
 
